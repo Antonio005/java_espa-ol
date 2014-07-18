@@ -1,0 +1,21 @@
+Inicio:
+
+    clase publica java_español{         
+        funcion publica vacia principal(){
+            Variable Entero Var1;
+            Variable Entero Var4;
+            Variable Decimal Var2;
+            Variable Decimal Var3;
+            Variable Cadena sss;
+            Var1 = LeeEntero();
+            var2 = LeeDecimal();
+            Var3 = Var1 + Var2;
+            Imprimir(Var3);
+
+           
+
+
+        }
+    }
+
+Fin.
